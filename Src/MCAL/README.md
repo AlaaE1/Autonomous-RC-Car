@@ -1,4 +1,4 @@
-# Autonomous-RC-Car-IMT-Final-Project
+# Autonomous-RC-Robot
 
 In this project I develop an autonomous RC car that can follow a predefined path using a line-following algorithm, avoid obstacles, and be manually controlled via Bluetooth. The car can switch between autonomous and manual modes seamlessly.
 
